@@ -2,7 +2,7 @@ USAGE OF THE TOOL :
 
 1. For Monitoring any twittier Handle :
 
-python classifier.py
+python tool_main.py
 
 
 For Data Collection:
